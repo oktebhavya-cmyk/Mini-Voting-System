@@ -2,6 +2,7 @@
 
 int main(){
     while(1){
+        printf ("voting system");
         printf("\n\t\t\t   1.Student panel \n\t\t\t   2.Admin panel \n\t\t\t   3.Exit \n\t\t\t   Option:");
 		char input;
         scanf(" %c",&input);
